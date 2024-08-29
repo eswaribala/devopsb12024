@@ -23,5 +23,6 @@ jobs:
 
     - name: Build
       run: |
-          npm  --prefix /nodejsapp install
-          node --prefix /nodejsapp pdftobase64.js
+          cd nodejsapp 
+          npm  install
+          node  pdftobase64.js
