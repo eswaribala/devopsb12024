@@ -30,4 +30,7 @@ jobs:
         run: cat demo.txt
       - name: create new file
         run: touch file1.txt
-      
+      - name: list the files
+        run: ls
+      - name: create directory
+        run: mkdir training2024
