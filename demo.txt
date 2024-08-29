@@ -1,1 +1,1 @@
-objective of the session to understand merge tool by user2
+objective is to learn conflict by user1
